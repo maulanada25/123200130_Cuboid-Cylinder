@@ -66,7 +66,7 @@ public class Main {
                     System.out.println("Circle circumference = " + tube.circum());
                     System.out.println("Tube volume = " + tube.volume());
                     System.out.println("Tube surface area = " + tube.surface());
-                    System.out.print("\nGo back? (Yes : 1 || No : 0)");
+                    System.out.println("\nGo back? (Yes : 1 || No : 0)");
                     System.out.print("Choose : ");
                     y = input.nextInt();
                     loop = y != 0;
