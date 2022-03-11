@@ -31,7 +31,7 @@ public class Main {
             System.out.println("1. Rectangle & Beam Calculator");
             System.out.println("2. Cirle & Tube Calculator");
             System.out.println("3. Exit");
-            System.out.println("Choose : ");
+            System.out.print("Choose : ");
             x = input.nextInt();
             
             switch (x){
